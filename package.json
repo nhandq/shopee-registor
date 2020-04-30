@@ -22,7 +22,7 @@
     "fs": "0.0.1-security",
     "https": "^1.0.0",
     "index.js": "0.0.3",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "pug": "^2.0.4",
     "puppeteer": "^2.0.0",
     "socket.io": "^2.3.0"
