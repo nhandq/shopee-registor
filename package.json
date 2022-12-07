@@ -13,11 +13,11 @@
     "nodemon": "^1.19.4"
   },
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "delay": "^4.3.0",
     "ejs": "^2.7.1",
     "ejs-electron": "^2.0.3",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "form-data": "^3.0.0",
     "fs": "0.0.1-security",
     "https": "^1.0.0",
